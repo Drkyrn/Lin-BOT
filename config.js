@@ -41,8 +41,8 @@ global.owner = ['6282169046421','6283155505979','6282137666456']
 global.premium = ['6282169046421','6282137666456']
 global.botname = 'RY BOT'
 global.ownername = 'DrkYrn'
-global.group1 = 'https://chat.whatsapp.com/EFsb8RCXV4jLEFk4eAcA1A'
-global.group2 = 'https://chat.whatsapp.com/HSfcYU13g5C8GxINWwSWoA'
+global.group1 = 'https://chat.whatsapp.com/DnCGcqruCSZ2GBI3xr3jeO'
+global.group2 = 'https://chat.whatsapp.com/EFsb8RCXV4jLEFk4eAcA1A'
 global.packname = 'RY BOT'
 global.ytchannel = 'https://youtu.be/ww4z2m3uORU'
 global.monayawal = '100000'
@@ -53,9 +53,9 @@ global.emeraldAwal = '5'
 global.umpanAwal = '5'
 global.potionAwal = '1'
 global.dripstyping = false
-global.dripsreadgroup = false
+global.dripsreadgroup = true
 global.dripsreadall = false
-global.dripsrecord = true
+global.dripsrecord = false
 global.available = false
 global.limittot = 100,
 global.f1 = 'application/vnd.openxmlformats-officedocument.presentationml.presentation'
@@ -71,7 +71,7 @@ global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
     success: '*success whoa*',
-        ban: '*Sorry, looks like u got banned😔😔 type .owner To request unban okay*',
+        ban: '*Awikwok, gabisa command karena dibanned oleh owner*',
     admin: '*this cmd is for bot owner only , l can feel you but sorry okay*',
     botAdmin: '*with due respect can you please give bot adminship*',
     owner: '*this cmd is for bot owner only , l can feel you but sorry okay*',
